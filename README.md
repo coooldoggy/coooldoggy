@@ -12,11 +12,6 @@
   
   
 
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Android developer
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Awesome projects
