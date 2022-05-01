@@ -13,7 +13,7 @@
   
 
 - 🔭 I’m currently working as Android developer
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Jetpack Compose
 - 👯 I’m looking to collaborate on Awesome projects
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: coooldoggy@gmail.com
