@@ -14,5 +14,5 @@
 
 - 🔭 I’m currently working as Android developer
 - 📫 How to reach me: coooldoggy@gmail.com
-- ⚡ Fun fact: I love CAT
+- 🧐 If you want to know more about me check my [LinkedIn](https://www.linkedin.com/in/yulim-lee/)https://www.linkedin.com/in/yulim-lee/
 
