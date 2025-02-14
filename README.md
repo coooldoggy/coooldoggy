@@ -12,7 +12,7 @@
   
   
 
-- 🔭 I’m currently working as Android developer
+- 🔭 I’m currently working with Java, Kotlin, Python, Oracle DB ..etc
 - 📫 How to reach me: coooldoggy@gmail.com
 - 🧐 If you want to know more about me check my [LinkedIn](https://www.linkedin.com/in/yulim-lee/)
 
